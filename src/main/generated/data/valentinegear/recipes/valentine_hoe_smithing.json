@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "valentinegear:valentine_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "result": {
+    "item": "valentinegear:valentine_hoe"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

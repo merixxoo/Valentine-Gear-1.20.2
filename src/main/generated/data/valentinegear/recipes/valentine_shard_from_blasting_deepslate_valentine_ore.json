@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 600,
+  "experience": 3.0,
+  "group": "VALENTINE_shard",
+  "ingredient": {
+    "item": "valentinegear:deepslate_valentine_ore"
+  },
+  "result": "valentinegear:valentine_shard"
+}

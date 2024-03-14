@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "valentinegear:valentine_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "valentinegear:valentine_ingot"
+  }
+}

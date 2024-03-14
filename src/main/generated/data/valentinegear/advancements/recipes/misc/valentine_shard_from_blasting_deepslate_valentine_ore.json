@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_valentine_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "valentinegear:deepslate_valentine_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:valentine_shard_from_blasting_deepslate_valentine_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_deepslate_valentine_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:valentine_shard_from_blasting_deepslate_valentine_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

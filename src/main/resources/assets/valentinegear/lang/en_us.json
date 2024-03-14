@@ -1,0 +1,22 @@
+{
+  "item.valentinegear.valentine_shard": "Valentine Shard",
+  "item.valentinegear.valentine_ingot": "Valentine Ingot",
+
+  "item.valentinegear.valentine_helmet": "Valentine Helmet",
+  "item.valentinegear.valentine_chestplate": "Valentine Chestplate",
+  "item.valentinegear.valentine_leggings": "Valentine Leggings",
+  "item.valentinegear.valentine_boots": "Valentine Boots",
+
+
+  "item.valentinegear.valentine_pickaxe": "Valentine Pickaxe",
+  "item.valentinegear.valentine_axe": "Valentine Axe",
+  "item.valentinegear.valentine_shovel": "Valentine Shovel",
+  "item.valentinegear.valentine_hoe": "Valentine Hoe",
+  "item.valentinegear.valentine_sword": "Valentine Sword",
+
+  "block.valentinegear.valentine_block": "Block of valentine",
+  "block.valentinegear.valentine_ore": "Valentine Ore",
+  "block.valentinegear.deepslate_valentine_ore": "Deepslate Valentine Ore",
+
+  "itemgroup.valentine": "Valentine Gear"
+}
